@@ -9,25 +9,18 @@
 
 ### 🛠 &nbsp;Skills & Technologies
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="40" alt="react logo"  />
+<img src="https://img.shields.io/badge/HTML--brightgreen?style=social&logo=html5" alt="HTML">
+<img src="https://img.shields.io/badge/CSS--brightgreen?style=social&logo=css" alt="CSS">
+<img src="https://img.shields.io/badge/JAVASCRIPT--brightgreen?style=social&logo=JAVASCRIPT" alt="JAVASCRIPT">
+<img src="https://img.shields.io/badge/TYPESCRIPT--brightgreen?style=social&logo=typescript" alt="TYPESCRIPT">
+<img src="https://img.shields.io/badge/REACT--brightgreen?style=social&logo=react" alt="REACT">
+<img src="https://img.shields.io/badge/Bootstrap--brightgreen?style=social&logo=Bootstrap" alt="Bootstrap">
+<img src="https://img.shields.io/badge/PYTHON--brightgreen?style=social&logo=PYTHON" alt="PYTHON">
+</div>
+<div align="left">
+<img src="https://img.shields.io/badge/NodeJS--brightgreen?style=social&logo=node.js" alt="NodeJS">
+<img src="https://img.shields.io/badge/Djs--brightgreen?style=social&logo=discord.js" alt="Djs">
+<img src="https://img.shields.io/badge/PHP--brightgreen?style=social&logo=php" alt="PHP">
 </div>
 
 <p align="center"> 
