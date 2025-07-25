@@ -23,9 +23,9 @@
 <img src="https://img.shields.io/badge/Djs--brightgreen?style=social&logo=discord.js" alt="Djs">
 <img src="https://img.shields.io/badge/PHP--brightgreen?style=social&logo=php" alt="PHP">
 </div>
-
+<h2 align="center">📱 Discord Status</h2>
 <p align="center"> 
-  <a href="https://discord.com/users/1138498420731023461" target="_blank"> <img src="https://discord.c99.nl/widget/theme-2/1138498420731023461.png"/> </a>
+  <a href="https://discord.com/users/1138498420731023461" target="_blank"> <img src="https://lanyard.cnrad.dev/api/1138498420731023461?showDisplayName=true"/> </a>
 </p>
 
 <h2 align="center">📫 Connect With Me</h2>
